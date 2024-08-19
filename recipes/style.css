@@ -1,0 +1,35 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+ul {
+    padding: 10px;
+    list-style-type: none;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin:auto
+}
+
+h1 {
+    text-align: center;
+    color:crimson
+}
+
+h2 {
+    text-align: center;
+    color:brown
+}
+
+.final {
+    color:azure;
+    background-color: darkgoldenrod;
+    font-size: 35px;
+    text-align:center
+}
