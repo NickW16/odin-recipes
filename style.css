@@ -1,6 +1,7 @@
 body {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center
+    text-align: center;
+    background-image: linear-gradient(bisque, rgb(73, 7, 7));
 }
 
 h1 {
@@ -8,4 +9,15 @@ h1 {
     background-color:rgb(230, 196, 6);
     font-style: italic;
     font-size: 40px;
+}
+
+a { 
+    border-width: 4px;
+    border-style: double;
+    border-color: rgb(230, 196, 6);
+    font-size: 30px;
+    background-color: darkred;
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 8px;
 }
